@@ -30,7 +30,9 @@ Object-Oriented Design
 
 
   The program uses two classes:
+  
 	  •	DNASequence: Handles DNA validation, transcription, nucleotide counting, codon splitting, and start codon detection
+	  
 	  •	Main: Handles user input, menu navigation, and output display
 
 Technologies Used
@@ -66,7 +68,9 @@ RNA: UACGAU (output)
 
 
 Author
+
   Rikysia Wagoner
+  
   COSC 111 – Final Project
 
   
