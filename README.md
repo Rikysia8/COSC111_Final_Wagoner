@@ -17,18 +17,6 @@ Features
 	-	RNA codon splitting
 	-	Start codon (AUG) detection
 	-	Error handling for invalid input
-
-Structure
-
-
-  DNASequenceAnalyzer/
-  
-  │
-  ├── Main.java          // Contains main method and menu logic
-  ├── DNASequence.java   // Student-defined class for DNA processing
-  ├── UML_Diagram.png    // UML class diagram
-  ├── Reflection.docx    // Project reflection
-  └── README.md
   
 How to Run 
 
