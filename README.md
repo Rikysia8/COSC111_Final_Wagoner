@@ -8,6 +8,8 @@ Overview
 
 
 Features
+	
+	
 	•	Menu-driven user interface
 	•	DNA sequence validation (A, T, C, G ) only
 	•	DNA to RNA transcription using complementary base-pair rules
