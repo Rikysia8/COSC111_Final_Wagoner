@@ -53,7 +53,9 @@ Example Output
 6. Check for Start Codon (AUG)
 7. Exit
 Choice: 1 (input)
+
 Enter DNA sequence (output): ATGCTA (input)
+
 DNA sequence saved. (output)
 
 === DNA Sequence Analyzer === (output)
@@ -65,6 +67,7 @@ DNA sequence saved. (output)
 6. Check for Start Codon (AUG)
 7. Exit
 Choice: 3 (input)
+
 RNA: UACGAU (output)
 
 
