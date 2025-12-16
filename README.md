@@ -10,15 +10,17 @@ Overview
 Features
 	
 	
-	•	Menu-driven user interface
-	•	DNA sequence validation (A, T, C, G ) only
-	•	DNA to RNA transcription using complementary base-pair rules
-	•	Nucleotide frequency counting
-	•	RNA codon splitting
-	•	Start codon (AUG) detection
-	•	Error handling for invalid input
+	-   Menu-driven user interface
+	-	DNA sequence validation (A, T, C, G ) only
+	-	DNA to RNA transcription using complementary base-pair rules
+	-	Nucleotide frequency counting
+	-	RNA codon splitting
+	-	Start codon (AUG) detection
+	-	Error handling for invalid input
 
 Structure
+
+
   DNASequenceAnalyzer/
   │
   ├── Main.java          // Contains main method and menu logic
@@ -28,20 +30,26 @@ Structure
   └── README.md
   
 How to Run 
+
+
 	1.	Open the project in a Java-compatible IDE 
 	2.	Ensure that both Main.java and DNASequence.java are in the same directory
 	3.	Compile and run Main.java 
 	4.	Follow the menu prompts to interact with the program
 
 Object-Oriented Design
+
+
   The program uses two classes:
 	  •	DNASequence: Handles DNA validation, transcription, nucleotide counting, codon splitting, and start codon detection
 	  •	Main: Handles user input, menu navigation, and output display
 
 Technologies Used
-	•	Java
-	•	VS code
-	•	GitHub
+
+
+	-	Java
+	-	VS code
+	-	GitHub
 
 Example Output
   === DNA Sequence Analyzer ===
