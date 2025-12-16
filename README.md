@@ -52,11 +52,12 @@ Example Output
 5. Display Codons
 6. Check for Start Codon (AUG)
 7. Exit
-Choice: 1 (input)
 
-Enter DNA sequence (output): ATGCTA (input)
+	Choice: 1 (input)
 
-DNA sequence saved. (output)
+	Enter DNA sequence (output): ATGCTA (input)
+
+	DNA sequence saved. (output)
 
 === DNA Sequence Analyzer === (output)
 1. Enter DNA Sequence
@@ -66,9 +67,10 @@ DNA sequence saved. (output)
 5. Display Codons
 6. Check for Start Codon (AUG)
 7. Exit
-Choice: 3 (input)
 
-RNA: UACGAU (output)
+	Choice: 3 (input)
+
+	RNA: UACGAU (output)
 
 
 Author
