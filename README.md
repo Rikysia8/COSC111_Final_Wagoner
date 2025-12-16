@@ -59,6 +59,7 @@ Example Output
 
 	DNA sequence saved. (output)
 
+
 === DNA Sequence Analyzer === (output)
 1. Enter DNA Sequence
 2. Validate DNA
@@ -71,6 +72,7 @@ Example Output
 	Choice: 3 (input)
 
 	RNA: UACGAU (output)
+
 
 
 Author
