@@ -43,6 +43,7 @@ Technologies Used
 	-	GitHub
 
 Example Output
+
   === DNA Sequence Analyzer ===
 1. Enter DNA Sequence
 2. Validate DNA
